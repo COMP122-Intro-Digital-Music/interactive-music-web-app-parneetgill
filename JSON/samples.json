@@ -1,1 +1,11 @@
-[]
+name: [rain]
+file: "Samples/rain.mp3"
+bpm: "120"
+loop:  "2m"
+}
+{
+name:  antidote
+file: "antidotekaranaujla.mp3"
+bpm: "120"
+loop: "1m"
+}
